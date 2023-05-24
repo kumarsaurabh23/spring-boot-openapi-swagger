@@ -1,8 +1,8 @@
 # spring-boot-openapi-swagger
 
 For the integration between spring-boot and swagger-ui, below dependency is used
-<p>
-```xml
+
+```
     <dependency>
         <groupId>org.springdoc</groupId>
         <artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
